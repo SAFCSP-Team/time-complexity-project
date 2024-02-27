@@ -1,4 +1,4 @@
-# Time calculation project
+# Time complexity project
 
 ## Objective
 
