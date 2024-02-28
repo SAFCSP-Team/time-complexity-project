@@ -2,15 +2,18 @@
 
 ## Objective
 
-This project is aiming to understand how to enhance the time complexity of your code.   
-   
-## Implementation    
+This project is aiming to understand how to enhance the time complexity of your code.    
+
+## Problem  
 Enhance the time complexity of the below code.   
+
+
+## Implementation    
    
 The below function **calculates the sum of squares** by using a `for` loop.    
 
 ```java
-/* Change the below code */
+// Change the below code
     public static int sumOfSquares(int n) {
         int result = 0;
         for (int i = 1; i <= n; i++) {
